@@ -1,0 +1,22 @@
+# Personal blocklist of distractions while working
+# https://github.com/lygi/pihole-distractions
+
+# Social Media
+(\.|^)twitter.com$
+(\.|^)t.co
+(\.|^)reddit.com$
+(\.|^)redditmedia.com$
+(\.|^)redditstatic.com$
+
+# The News
+(\.|^)abc.net.au$
+(\.|^)bbc.com$
+(\.|^)bbc.co.uk$
+(\.|^)bloomberg.com$
+(\.|^)economist.com$
+(\.|^)smh.com.au$
+(\.|^)newsminer.com$
+(\.|^)nytimes.com$
+(\.|^)theguardian.com$
+(\.|^)theregister.com$
+(\.|^)wsj.com$
