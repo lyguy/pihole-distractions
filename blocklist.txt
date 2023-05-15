@@ -6,12 +6,16 @@ twitter.com
 t.co
 reddit.com
 m.reddit.com
+www.reddit.com
 redditmedia.com
 redditstatic.com
+gateway.reddit.com
+gql.reddit.com
 
 # The News
 abc.net.au
 bbc.com
+www.bbc.com
 bbc.co.uk
 news.bbc.co.uk
 bloomberg.com
